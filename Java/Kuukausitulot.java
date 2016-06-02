@@ -1,5 +1,5 @@
-//Laadi ohjelma, joka ottaa taulukkoon talteen kahdentoista kuukauden tulot ja laskee sekä tulostaa 
-//näytölle tuloista yhteenlasketun vuositulon, keskitulon kuukautta kohti, sekä suurimman kuukausikohtaisen tulon.
+//ohjelma, joka ottaa taulukkoon kahdentoista kuukauden tulot ja laskee sekä tulostaa 
+//näytölle tuloista yhteenlasketun vuositulon, keskitulon kuukautta kohti ja suurimman kuukausikohtaisen tulon.
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
@@ -9,7 +9,7 @@ public class Tehtava2
 
 	public static void main(String[] args) 
 	{
-		//Jukka Pirinen
+		//Jukka Pirinen 2.6.2016
 		
 		Scanner lukija;
 		lukija = new Scanner(System.in);
