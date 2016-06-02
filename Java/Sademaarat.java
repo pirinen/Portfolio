@@ -1,5 +1,4 @@
-//Laadi ohjelma, joka kysyy käyttäjältä seitsemän viikonpäivän sademäärät, jotka se tulostaa näytölle. 
-//Käytä ohjelmassasi vakiota ja taulukkoa.
+//ohjelma, joka kysyy seitsemän viikonpäivän sademäärät, ja tulostaa ne näytölle. 
 
 import java.util.Scanner;
 
@@ -8,7 +7,7 @@ public class tehtava2
 
 	public static void main(String[] args) 
 	{
-		//Jukka Pirinen
+		//Jukka Pirinen 2.6.2016
 		
 		Scanner lukija;
 		lukija = new Scanner(System.in);
