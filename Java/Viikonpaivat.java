@@ -1,6 +1,5 @@
-//Laadi ohjelma, joka tallettaa viikonpäivät kolmella eri kielellä taulukkoon/taulukkoihin. 
-//Kielet voit valita vapaasti. Ohjelman tulee tietojen tallettamisen jälkeen kysyä, 
-//monennenko viikonpäivän nimen käyttäjä haluaa tietää ja millä kolmesta kielestä, sekä tulostaa vastaus näytölle.
+//ohjelma, joka tallettaa viikonpäivät eri kielillä taulukkoon
+//ja tulostaa päivän halutulla kielellä
 
 //import java.io.File;		//luetaan tiedostoa
 import java.util.Scanner;
@@ -10,7 +9,7 @@ public class Tehtava1
 
 	public static void main(String[] args) 
 	{
-		//Jukka Pirinen
+		//Jukka Pirinen 2.6.2016
 		
 		Scanner lukija;
 		lukija = new Scanner(System.in);
