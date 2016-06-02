@@ -1,6 +1,5 @@
-//Laadi ohjelma, joka kysyy käyttäjältä kuvitteellisen henkilön seuraavat tiedot: ikä, pituus metreinä, paino 
-//sekä tieto siitä, omistaako kyseinen henkilö ajokortin. Valitse tarvittavien muuttujien tietotyypit siten, 
-//että ne vievät mahdollisimman vähän turhaa tilaa. Kun olet kysynyt tiedot käyttäjältä, tulosta ne näytölle.
+//ohjelma, joka kysyy käyttäjältä henkilön tiedot: ikä, pituus metreinä, paino 
+//sekä tieto siitä, omistaako kyseinen henkilö ajokortin.
 
 
 import java.util.InputMismatchException;
@@ -11,7 +10,7 @@ public class tehtava1
 
 	public static void main(String[] args) 
 	{
-		//Jukka Pirinen
+		//Jukka Pirinen 2.6.2016
 	
 		short ika, paino;	
 		float pituus;		
