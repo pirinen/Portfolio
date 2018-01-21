@@ -1,0 +1,8 @@
+C:\Users\pirin\Omat\Ohjelmat\Kello\Kello\bin\Debug\Kello.exe.config
+C:\Users\pirin\Omat\Ohjelmat\Kello\Kello\bin\Debug\Kello.exe
+C:\Users\pirin\Omat\Ohjelmat\Kello\Kello\bin\Debug\Kello.pdb
+C:\Users\pirin\Omat\Ohjelmat\Kello\Kello\obj\Debug\Kello.Form1.resources
+C:\Users\pirin\Omat\Ohjelmat\Kello\Kello\obj\Debug\Kello.Properties.Resources.resources
+C:\Users\pirin\Omat\Ohjelmat\Kello\Kello\obj\Debug\Kello.csproj.GenerateResource.Cache
+C:\Users\pirin\Omat\Ohjelmat\Kello\Kello\obj\Debug\Kello.exe
+C:\Users\pirin\Omat\Ohjelmat\Kello\Kello\obj\Debug\Kello.pdb
